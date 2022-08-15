@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @QSChitanta
-- 👀 I’m interested in Front End Developement
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Front End Developement and Back End Developement
+- 🌱 I’m currently learning Java, Javascript, REACT, HTML & CSS, TypeScript, Angular
 - 📫 How to reach me - Email: patrick.chitanta@quinscape.de
 
 <!---
