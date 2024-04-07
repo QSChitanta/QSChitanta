@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @QSChitanta
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Java, Javascript, REACT, HTML & CSS, TypeScript, Angular
-- 🌱 I’m currently working with Java, JavaScript, TypeScript, REACT, HTML & CSS
+- 🌱 I’m currently working with Java, JavaScript, TypeScript, REACT, HTML & CSS, MySQL, PostgreSQL
 - 📫 How to reach me - Email: patrick.chitanta@quinscape.de 
 
 <!---
